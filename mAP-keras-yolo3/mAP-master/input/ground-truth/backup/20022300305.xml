@@ -1,0 +1,37 @@
+<annotation>
+	<folder>Desktop</folder>
+	<filename>20022300305.jpg</filename>
+	<source>
+		<database>My Database</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>149</ymin>
+			<xmax>478</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>180</ymin>
+			<xmax>609</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

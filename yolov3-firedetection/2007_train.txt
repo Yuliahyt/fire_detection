@@ -1,0 +1,195 @@
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300000.jpg 301,0,806,540,0 372,497,411,538,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300001.jpg 182,0,850,507,0 553,171,593,274,1 530,74,537,446,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300003.jpg 31,1,730,314,0 507,237,661,379,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300004.jpg 238,0,911,509,0 419,467,447,523,1 455,351,648,514,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300006.jpg 51,190,407,513,0 480,1,798,542,0 407,1,591,541,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300007.jpg 323,0,958,479,0 323,172,372,305,1 371,94,405,174,1 767,361,797,386,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300008.jpg 322,0,894,513,0 323,343,379,416,1 876,427,894,510,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300009.jpg 337,0,945,521,0 472,329,506,372,1 898,453,938,507,1 340,348,364,407,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300010.jpg 327,0,935,527,0 866,466,908,509,1 337,350,378,422,1 483,333,509,403,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300011.jpg 349,0,881,535,0 772,435,837,484,1 350,341,388,400,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300012.jpg 10,1,454,313,0 266,181,444,299,1 504,38,821,297,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300013.jpg 47,0,493,310,0 284,124,470,302,1 585,9,888,317,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300014.jpg 515,201,694,369,1 725,370,886,407,1 833,490,848,510,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300015.jpg 0,58,511,536,0 510,280,873,542,0 108,208,294,370,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300016.jpg 0,0,244,329,0 267,169,456,424,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300017.jpg 109,126,440,395,0 576,108,822,396,0 440,268,575,421,1 532,219,576,267,1 570,158,626,217,1 629,109,671,133,1 303,239,386,374,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300018.jpg 452,0,863,280,0 452,227,585,277,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300020.jpg 199,0,780,384,0 0,0,348,518,1 0,112,179,384,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300022.jpg 461,0,883,260,0 503,227,538,264,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300023.jpg 458,0,864,260,0 505,223,537,258,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300024.jpg 422,11,687,355,0 598,293,626,352,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300025.jpg 295,0,801,289,0 351,215,386,258,1 427,239,463,289,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300026.jpg 295,0,795,280,0 257,228,309,302,0 330,247,369,278,1 411,266,448,312,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300027.jpg 0,0,510,234,0 510,97,612,222,0 463,172,515,244,1 533,204,590,236,1 479,93,491,125,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300028.jpg 422,106,566,275,0 565,92,751,227,0 442,265,460,274,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300029.jpg 500,15,822,236,0 780,223,792,235,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300030.jpg 62,3,694,443,0 16,397,31,428,1 128,368,153,488,1 259,302,512,383,1 361,450,376,469,1 288,137,417,242,1 541,190,685,302,1 697,247,825,437,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300031.jpg 2,0,598,324,0 644,229,700,289,0 536,164,677,296,1 280,252,358,331,1 399,214,535,327,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300032.jpg 210,51,482,243,0 477,220,544,270,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300034.jpg 36,0,430,331,0 228,230,288,342,1 169,324,175,329,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300036.jpg 1,2,578,541,0 578,0,789,335,0 321,125,531,451,1 252,449,315,530,1 533,0,663,534,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300037.jpg 179,0,758,212,0 594,122,831,253,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300039.jpg 235,0,451,176,0 161,96,234,173,0 181,129,187,148,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300040.jpg 54,0,630,376,0 411,270,528,374,1 316,338,361,362,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300041.jpg 5,0,333,267,0 295,212,323,243,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300042.jpg 221,211,855,350,0 89,296,268,340,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300043.jpg 544,181,959,344,0 772,183,849,232,1 209,244,574,332,1 630,251,651,285,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300044.jpg 505,253,776,356,0 294,280,616,353,1 697,298,730,316,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300046.jpg 0,0,957,411,0 0,186,119,440,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300047.jpg 0,0,908,435,0 82,122,142,192,1 0,269,146,487,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300049.jpg 1,0,957,484,0 19,264,48,316,1 3,359,182,501,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300050.jpg 0,0,949,440,0 0,266,327,493,1 23,234,51,251,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300051.jpg 1,0,957,452,0 0,195,260,499,1 320,306,347,353,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300052.jpg 0,0,946,479,0 331,170,449,283,1 0,251,214,526,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300053.jpg 0,0,957,447,0 220,322,404,415,1 0,366,257,526,1 136,328,161,355,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300054.jpg 0,0,958,237,0 0,58,248,265,1 332,74,385,126,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300055.jpg 0,0,950,349,0 11,63,345,177,1 0,247,254,375,1 317,209,348,251,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300056.jpg 180,0,920,512,0 458,341,647,514,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300057.jpg 142,0,917,510,0 422,366,638,526,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300058.jpg 105,0,956,470,0 472,379,668,472,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300059.jpg 0,0,958,368,0 36,112,362,370,1 361,236,644,381,1 187,25,220,54,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300060.jpg 0,1,923,427,0 873,402,906,420,1 0,112,255,407,1 255,274,546,411,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300061.jpg 0,0,942,413,0 58,133,381,426,1 381,250,744,433,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300063.jpg 522,0,834,431,0 284,231,523,423,0 548,414,695,431,1 380,282,535,389,1 240,394,461,427,1 290,350,331,376,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300064.jpg 118,56,691,387,0 115,362,142,391,1 161,380,175,391,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300065.jpg 172,0,423,175,0 286,143,325,173,1 346,150,365,173,1 296,192,317,198,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300066.jpg 2,0,455,451,0 354,332,538,447,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300067.jpg 233,106,357,146,0 72,112,287,146,1 334,120,348,135,1 306,114,312,121,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300068.jpg 412,0,751,362,0 288,245,504,365,1 504,352,699,365,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300069.jpg 1,0,855,443,0 78,244,135,317,1 168,288,260,343,1 365,188,726,326,1 739,224,825,328,1 786,357,806,372,1 0,303,13,313,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300070.jpg 0,0,894,481,0 0,304,71,370,1 186,207,809,352,1 638,379,679,393,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300071.jpg 0,0,959,495,0 125,204,729,428,1 755,224,804,244,1 43,282,76,317,1 386,439,395,447,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300072.jpg 1,0,953,456,0 0,284,90,387,1 151,259,176,287,1 192,183,757,347,1 616,347,699,401,1 455,398,475,447,1 779,217,825,238,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300073.jpg 6,0,356,434,0 356,0,430,51,0 64,234,308,273,1 256,273,307,410,1 63,273,209,432,1 224,392,256,461,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300074.jpg 0,0,742,541,0 148,248,657,395,1 548,393,651,539,1 207,395,386,541,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300075.jpg 231,0,768,519,0 309,219,691,280,1 348,279,539,486,1 614,279,688,462,1 559,448,614,467,1 566,530,601,542,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300077.jpg 0,0,476,508,0 28,330,75,352,1 25,470,135,536,1 206,302,298,526,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300078.jpg 0,0,412,500,0 207,248,302,270,1 282,268,349,450,1 249,444,284,464,1 54,364,213,483,1 69,277,88,292,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300079.jpg 80,103,280,373,0 132,356,188,381,1 152,257,191,356,1 191,257,262,276,1 228,274,267,372,1 209,360,247,398,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300081.jpg 244,0,613,300,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300082.jpg 143,0,333,170,0 334,0,683,405,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300083.jpg 226,0,488,488,0 263,323,290,408,1 238,412,317,447,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300084.jpg 293,0,475,459,0 336,315,358,406,1 306,406,405,437,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300085.jpg 314,217,479,484,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300086.jpg 29,65,277,416,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300087.jpg 162,56,267,176,0 266,88,432,304,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300088.jpg 41,0,416,353,0 171,157,243,204,1 226,219,368,352,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300089.jpg 254,0,346,197,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300090.jpg 0,0,455,456,0 249,414,329,456,1 217,264,337,309,1 292,320,327,351,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300091.jpg 0,0,882,242,0 97,243,190,469,1 213,374,245,431,1 304,353,360,423,1 410,273,462,399,1 758,62,804,100,1 827,264,855,297,1 330,286,376,324,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300092.jpg 221,0,956,169,0 218,246,351,420,1 415,316,468,421,1 520,320,552,379,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300093.jpg 298,0,804,129,0 288,136,349,325,1 354,253,398,280,1 437,239,480,323,1 522,242,533,288,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300095.jpg 0,1,548,278,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300097.jpg 0,0,753,362,0 400,390,444,454,1 329,409,360,448,1 299,410,313,444,1 237,418,245,427,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300099.jpg 0,0,472,298,0 233,213,315,350,1 326,258,423,403,1 281,349,298,399,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300100.jpg 3,0,337,233,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300101.jpg 211,73,273,157,1 292,136,321,148,1 347,143,420,178,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300102.jpg 0,0,328,324,0 327,159,474,326,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300103.jpg 0,0,406,457,0 406,108,763,320,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300104.jpg 0,0,635,303,0 559,348,619,435,1 384,304,400,326,1 475,181,556,216,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300105.jpg 0,0,442,382,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300106.jpg 110,0,605,225,0 59,185,391,259,1 410,163,575,222,1 368,322,374,330,1 477,320,484,326,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300107.jpg 0,0,719,340,0 197,434,288,503,1 392,411,403,422,1 275,319,298,334,1 1,302,24,320,1 257,0,324,206,1 629,281,709,425,1 722,392,735,435,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300108.jpg 0,0,741,507,0 577,381,632,407,1 658,443,709,503,1 243,387,274,432,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300109.jpg 25,0,697,403,0 314,456,320,462,1 181,404,309,503,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300110.jpg 303,0,743,307,0 744,2,858,52,0 362,283,461,353,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300111.jpg 259,0,725,355,0 725,0,850,95,0 302,330,404,379,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300112.jpg 343,1,809,329,0 396,306,483,360,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300114.jpg 14,1,321,140,0 229,140,423,348,0 406,315,443,365,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300116.jpg 0,0,199,220,0 200,54,364,268,0 360,221,396,263,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300118.jpg 79,0,424,252,0 236,232,358,289,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300119.jpg 3,1,480,314,0 164,127,385,312,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300120.jpg 3,1,508,379,0 215,207,458,380,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300121.jpg 2,0,553,376,0 251,276,275,338,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300123.jpg 16,1,543,357,0 308,268,338,328,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300124.jpg 136,4,535,375,0 449,281,478,343,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300125.jpg 328,1,598,260,0 330,259,375,282,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300127.jpg 296,0,631,191,0 310,190,355,211,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300128.jpg 102,0,462,277,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300129.jpg 218,0,405,313,0 234,226,289,316,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300130.jpg 349,0,560,218,0 9,1,348,122,0 347,192,405,253,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300131.jpg 0,0,703,260,0 279,241,369,264,1 372,220,583,284,1 469,133,555,203,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300135.jpg 0,1,427,332,0 5,228,223,341,1 223,318,421,356,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300136.jpg 0,0,751,342,0 2,316,63,382,1 147,328,188,377,1 382,230,750,352,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300138.jpg 25,0,176,368,0 212,3,747,376,0 554,296,749,397,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300139.jpg 0,0,749,360,0 278,299,473,391,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300140.jpg 0,0,680,442,0 388,421,469,454,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300142.jpg 0,0,366,252,0 45,152,93,232,1 92,198,263,268,1 262,252,401,271,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300144.jpg 49,0,620,282,0 357,191,459,217,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300146.jpg 127,0,420,208,0 194,151,302,262,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300148.jpg 0,0,484,342,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300149.jpg 217,0,556,247,0 231,223,260,239,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300150.jpg 80,0,300,226,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300151.jpg 86,0,276,222,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300152.jpg 206,52,347,221,0 249,126,326,202,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300153.jpg 1,0,758,374,0 567,259,620,293,1 571,393,592,418,1 679,391,699,404,1 655,490,684,510,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300154.jpg 114,2,397,250,0 195,205,260,265,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300155.jpg 2,3,522,220,0 148,301,199,327,1 239,242,331,290,1 306,145,329,174,1 471,262,489,285,1 420,266,441,285,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300156.jpg 115,125,420,255,0 176,163,234,239,1 334,188,384,222,1 283,202,298,223,1 395,218,406,232,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300158.jpg 0,0,381,241,0 199,201,209,218,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300159.jpg 1,0,416,288,0 416,139,574,218,0 274,195,402,270,1 237,139,295,165,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300160.jpg 0,0,765,253,0 0,163,341,249,1 340,128,452,175,1 453,88,555,155,1 622,56,760,122,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300161.jpg 0,2,605,324,0 393,99,515,226,1 465,250,541,315,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300162.jpg 9,0,863,424,0 478,382,544,410,1 587,348,675,421,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300163.jpg 0,0,810,466,0 557,251,810,306,1 548,335,620,397,1 42,365,199,534,1 2,307,120,390,1 292,416,303,450,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300164.jpg 0,124,403,376,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300165.jpg 214,122,670,423,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300166.jpg 239,185,680,464,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300167.jpg 284,214,679,492,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300168.jpg 280,112,718,403,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300169.jpg 256,106,726,396,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300170.jpg 304,0,483,357,0 167,234,305,356,0 169,316,184,344,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300171.jpg 0,0,270,230,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300173.jpg 7,4,372,320,0 47,230,84,273,1 149,134,258,293,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300174.jpg 449,0,869,476,0 156,276,449,476,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300175.jpg 532,0,849,474,0 245,195,535,438,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300176.jpg 350,0,957,402,0 843,412,855,422,1 20,113,351,330,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300177.jpg 300,0,957,324,0 887,322,898,336,1 870,417,879,425,1 148,139,300,220,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300178.jpg 417,0,913,542,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300179.jpg 66,0,437,240,0 228,136,298,182,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300181.jpg 134,0,398,367,0 136,271,171,291,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300182.jpg 0,0,82,92,0 77,0,607,309,1 153,294,195,314,1 283,359,325,385,1 364,370,389,388,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300183.jpg 316,76,676,432,0 431,395,471,426,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300184.jpg 1,31,498,503,0 21,431,175,501,1 248,456,268,481,1 310,481,339,504,1 412,467,445,499,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300185.jpg 15,0,254,183,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300186.jpg 455,48,725,359,0 234,220,453,482,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300187.jpg 0,0,617,276,0 167,250,204,272,1 469,203,516,219,1 112,334,122,348,1 287,317,332,336,1 366,321,407,342,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300188.jpg 80,0,471,157,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300189.jpg 0,0,648,371,0 280,318,311,340,1 315,272,329,280,1 381,303,409,323,1 462,295,493,314,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300190.jpg 279,0,517,204,0 120,68,279,217,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300191.jpg 31,0,455,316,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300192.jpg 0,0,318,217,0 317,24,455,165,0 94,177,194,214,1 195,128,318,188,1 317,117,371,153,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300195.jpg 78,4,401,471,0 84,389,262,511,1 80,514,136,540,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300197.jpg 150,0,271,140,0 318,0,471,104,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300198.jpg 159,0,289,418,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300199.jpg 142,8,239,228,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300200.jpg 2,0,217,291,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300202.jpg 77,0,285,481,0 285,3,431,249,0 209,462,241,489,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300203.jpg 170,0,303,222,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300204.jpg 235,1,306,187,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300205.jpg 1,0,467,442,0 412,344,459,420,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300206.jpg 113,0,323,261,0 52,196,113,260,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300207.jpg 0,0,613,223,0 218,228,360,333,1 383,301,426,326,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300208.jpg 0,0,270,277,0 147,212,195,270,1 236,185,246,201,1 273,207,322,307,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300209.jpg 149,0,309,497,0 321,0,653,371,0 281,356,304,392,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300210.jpg 153,0,271,217,0 182,66,244,204,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300212.jpg 67,0,544,527,0 322,205,398,355,1 482,181,539,289,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300213.jpg 42,45,114,110,0 70,59,97,99,1 51,94,54,97,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300215.jpg 154,1,475,465,0 262,212,404,423,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300217.jpg 180,1,359,345,0 290,332,324,420,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300218.jpg 23,1,601,291,0 414,292,445,337,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300219.jpg 135,0,316,439,0 248,269,279,353,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300220.jpg 248,0,372,332,0 293,330,316,342,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300224.jpg 96,0,262,312,0 262,0,723,175,0 281,142,318,168,1 243,243,267,294,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300225.jpg 121,0,422,237,0 121,138,286,237,1 188,99,301,136,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300227.jpg 81,0,380,70,0 0,37,84,140,0 70,53,104,129,1 105,37,188,90,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300229.jpg 0,0,553,511,0 552,109,825,378,0
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300230.jpg 0,0,643,443,0 356,266,539,443,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300231.jpg 0,0,793,438,0 471,267,612,427,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300234.jpg 0,0,734,407,0 411,229,506,405,1 508,240,608,323,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300235.jpg 0,0,735,415,0 371,194,487,401,1 487,199,594,321,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300236.jpg 0,0,681,380,0 208,163,329,375,1 331,175,502,238,1 496,283,514,311,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300237.jpg 296,0,952,264,0 361,70,604,275,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300238.jpg 303,0,671,311,0 713,0,918,211,0 381,164,596,309,1
+C:\Users\User\Desktop\yolov3-firedetection/VOCdevkit/VOC2007/JPEGImages/20022300240.jpg 472,0,956,365,0 479,331,504,364,1 154,111,431,433,0 235,242,431,444,1
